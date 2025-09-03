@@ -1,7 +1,7 @@
 README
 
 **IMPORTANT**
-Please note that the API key I received from ACRCloud for song identification will expire on **3/24**, so the app may not work properly after this time. If grading is occurring after this time, I hope the demo I have provided is sufficient to understand the client-side functionalities.
+Please note that the API key I received from ACRCloud for song identification will expire on **3/24**, so the app may not work properly after this time. 
 
 To run the app's client, run the python file, which will be able to connect to the server and work properly.
 To setup the app's server - 
